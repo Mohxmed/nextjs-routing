@@ -5,7 +5,8 @@ import React from 'react'
 function Register() {
   return (
     <>
-    <h1 className="text-6xl mb-10">الرئيسية/انشاء حساب </h1>
+    <p>الرئيسية / <span className='text-pink-500'>التسجيل</span></p>
+    <h1 className="text-6xl mb-10">انشاء حساب</h1>
     <div className={boxStyles.placeholder}>هنا سيتم وضع نموذج إنشاء حساب والتواصل مع السيرفر وقاعدة البيانات</div>
     <Link className={buttonStyles.primary} href='/'>العودة للصفحة الرئيسية</Link>
     </>
