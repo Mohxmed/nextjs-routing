@@ -9,6 +9,7 @@ export default function Home() {
     <a className={buttonStyles.secondary} href="/about">ما هذا؟</a>
     <a className={buttonStyles.primary} href="/login">تسجيل الدخول</a>
     <a className={buttonStyles.primary} href="/register">انشاء حساب</a>
+    <a className={buttonStyles.primary} href="/blog">المدونة</a>
     </div>
     <div className={`${Style.shape} mt-10 mb-2`}/>
     <p className="text-xs text-center">بواسطة : محمد عمرو <br/> 2026</p>
