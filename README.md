@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Live Preview
 [Navigate to Preview @Vercel](https://nextjs-routing-seven.vercel.app/)
+** Note: This is Arabic RTL Preview Case.
 
 ## Getting Started
 
